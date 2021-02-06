@@ -5,3 +5,5 @@
 
 I'd be happy to receive reports like "I used this library for this work!”  
 Please contact me by email, twitter or any other means.
+
+[SendMessage](https://kyubuns.dev/message.html)
